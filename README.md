@@ -1,16 +1,37 @@
-# theme_color_properties
+# Flutter Theme Color Properties application with theme_provider: ^0.5.0 plugin
+Flutter Dart Game Scorer applicatipon
 
-A new Flutter project.
+Application created on windows 10 64 bit & android studio is used for creating app with flutter and dart plugin.
 
-## Getting Started
+The app uses [theme_provider: ^0.5.0](https://pub.dev/packages/theme_provider) for managing theme inside and keeping user choice in shared preferences for future use
 
-This project is a starting point for a Flutter application.
+The app is using flutter null safety completly.
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/1.png" width="200" hspace="20">
+<img src="hhttps://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/2.png" width="200" hspace="20">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/3.png" width="200" hspace="20">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p float="left">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/4.png" width="200" hspace="20">
+<img src="hhttps://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/5.png" width="200" hspace="20">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/6.png" width="200" hspace="20">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/7.png" width="200" hspace="20">
+<img src="hhttps://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/8.png" width="200" hspace="20">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/9.png" width="200" hspace="20">
+</p>
+
+<p float="left">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/10.png" width="200" hspace="20">
+<img src="hhttps://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/11.png" width="200" hspace="20">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/12.png" width="200" hspace="20">
+</p>
+
+<p float="left">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/13.png" width="200" hspace="20">
+<img src="https://github.com/mohitagrawal939/flutter-theme-color-properties/blob/master/assets/images/14.png" width="200" hspace="20">
+</p>
